@@ -20,3 +20,4 @@ One of the main principles that I have learned about data is that companies or o
 ## References
 - https://rd.springer.com/article/10.1007/s13347-012-0093-4
 - https://towardsdatascience.com/ethical-codes-vs-ethical-code-fea118987a5
+- https://towardsdatascience.com/an-ethical-code-cant-be-about-ethics-66acaea6f16f
